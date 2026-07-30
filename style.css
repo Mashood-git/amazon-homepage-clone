@@ -314,3 +314,13 @@ ul a{
 #clear-cart:hover{
     background-color:#d97706;
 }
+
+.footer-disclaimer {
+    text-align: center;
+    color: #dddddd;
+    font-size: 13px;
+    padding: 15px 20px;
+    border-top: 1px solid #3a4553;
+    background-color: #131A22;
+    line-height: 1.5;
+}
