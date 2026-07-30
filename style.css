@@ -324,3 +324,21 @@ ul a{
     background-color: #131A22;
     line-height: 1.5;
 }
+.project-banner {
+    background-color: #fff3cd;
+    color: #856404;
+    text-align: center;
+    padding: 12px 20px;
+    border: 1px solid #ffeeba;
+    font-family: Arial, sans-serif;
+}
+
+.project-banner h3 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.project-banner p {
+    margin-top: 6px;
+    font-size: 14px;
+}
