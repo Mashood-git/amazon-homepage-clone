@@ -1,6 +1,6 @@
 # Amazon Clone built using HTML, CSS & JavaScript for educational purposes.
 
-🌐 **Live Demo:** https://mashood-git.github.io/amazon-clone/
+🌐 **Live Demo:** https://mashood-git.github.io/amazon-homepage-clone/
 
 📂 **Repository:** https://github.com/Mashood-git/amazon-clone
 
